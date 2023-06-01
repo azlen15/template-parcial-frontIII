@@ -1,13 +1,13 @@
-import Card from './Card'
 import './App.css'
+import Form from './Components/Form'
 
 function App() {
   
+
   return (
     <>
-      <h1>Carga de estudiantes</h1>
-      <form></form>
-      <Card />
+      <h1>Alta de estudiantes</h1>
+      <Form />
     </>
   )
 }
